@@ -1,5 +1,5 @@
 import './App.css';
-import Comp1 from './components/Comp1';
+import Comp1 from './components/HOC/Comp1';
 
 /* What is HOC?
 - HOC is Higher Order component.
